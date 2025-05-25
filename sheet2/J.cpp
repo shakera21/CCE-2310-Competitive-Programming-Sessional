@@ -1,4 +1,4 @@
-1.// Problem name: (I) Palindrome.
+1.// Problem name: (j) Primes from 1 to n .
 2.// Course title: Competitive Programming Sessional
 3.// Course code: CCE-2310
 4.// Course teacher name: Mirza Raquib
