@@ -1,4 +1,3 @@
-
 1.// Problem name: (C)Compare.
 2.// Course title: Competitive Programming Sessional
 3.// Course code: CCE-2310
